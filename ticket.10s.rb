@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-BATCH_SLUG = 552
+BATCH_SLUG = 460
 
 require 'net/http'
 require 'json'
